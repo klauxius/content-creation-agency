@@ -1,0 +1,4 @@
+agency-swarm
+moviepy
+elevenlabs
+python-dotenv
